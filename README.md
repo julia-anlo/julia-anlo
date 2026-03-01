@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, ML and Data Science
 - 🌱 I’m currently pursuing my MSc in Statistics
 - 💞️ I’m looking to collaborate on DS and AI projects
-- 📫 How to reach me on my Linkedin account
+- 📫 linkedin.com/in/juliaanlo/
 
 
 <!---
