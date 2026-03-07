@@ -12,13 +12,13 @@ I enjoy building projects that combine **data, machine learning, and real-world 
 - Data-driven decision systems
 
 ## 🚀 Top Projects
-- **🍷 Wine Clustering** - Multivariate Analysis · Ward's · K-Means · ARI=0.897 | R |
+- **🍷 Wine Clustering** - Multivariate Analysis · Hierarchical · K-Means · Mahalanobis · ARI=0.897 | R + Python
 - **Risk-Adjusted Customer Segmentation** – Customer clustering using RAROC and credit risk metrics  
 - **Customer Churn Prediction** – ML models for customer retention analysis  
 - **Financial GenAI Agent** – AI agent that interprets financial news and links it to risk metrics
 
 ## 🛠️ Tools
-Python • R • Pandas • NumPy • Scikit-learn • Matplotlib
+Python · R · Scikit-learn · XGBoost · SQL · Groq API · Basel III Risk Metrics
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/juliaanlo/) · [GitHub Portfolio](https://github.com/julia-anlo)
