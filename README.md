@@ -43,12 +43,12 @@ End-to-end portfolio applying ML to credit risk, customer retention, and AI-assi
 
 ## 🛠️ Stack
 
-**Languages:** Python · R · SQL  
-**ML:** Scikit-learn · XGBoost · RandomForest · SVM · KNN  
-**Stats:** PCA · CA/MCA · Clustering · Logistic Regression  
-**AI:** Llama 3.3 · Groq API 
-**Regulation:** Basel III Risk Metrics  
-**Viz:** Matplotlib · ggplot2 · Seaborn  
+- **Languages:** Python · R · SQL  
+- **ML:** Scikit-learn · XGBoost · RandomForest · SVM · KNN  
+- **Stats:** PCA · CA/MCA · Clustering · Logistic Regression  
+- **AI:** Llama 3.3 · Groq API
+- **Regulation:** Basel III Risk Metrics  
+- **Viz:** Matplotlib · ggplot2 · Seaborn  
 
 
 ## 📫 Connect with me
