@@ -21,8 +21,8 @@ End-to-end portfolio applying ML to credit risk, customer retention, and AI-assi
 | Project | Techniques | Stack |
 |---|---|---|
 | [Risk-Adjusted Segmentation](https://github.com/julia-anlo/risk-adjusted-customer-segmentation) | RAROC · PCA · K-Means | R · Python |
-| [Customer Churn Prediction](https://github.com/julia-anlo/customer-churn-prediction) | XGBoost · Cost-Sensitive · LTV | Python |
-| [Financial GenAI Agent](https://github.com/julia-anlo/financial-genai-agent) | Llama 3.3 · VIX · RAROC | Python · Groq API |
+| [Customer Churn Prediction](https://github.com/julia-anlo/Churn-Prediction-with-Cost-Sensitive-Learning) | XGBoost · Cost-Sensitive · LTV | Python |
+| [Financial GenAI Agent](https://github.com/julia-anlo/Financial-GenAI-Agent-Market-Sentiment-Risk-Reasoning) | Llama 3.3 · VIX · RAROC | Python · Groq API |
 
 ### 🌿 Obesity & Lifestyle Analytics
 9-repo pipeline from text mining to predictive modeling on 2,111 lifestyle profiles.
